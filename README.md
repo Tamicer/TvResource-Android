@@ -39,13 +39,16 @@ github:https://github.com/Tamicer/TV_FrameWork
   Blog：http://www.jianshu.com/p/566bd6188f4d
  
  
- 
  #操作
  
  
- ##遥控器做鼠标
+##遥控器做鼠标
  
  >github: https://github.com/Tamicer/MouseView_TV
  
  
- #ROM
+#直播点播 
+
+
+ 
+#ROM系列
