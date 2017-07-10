@@ -3,10 +3,10 @@
 
 Android Tv项目资源收集
 
-#UI系列
+# UI系列
 Tv专栏：http://blog.csdn.net/column/details/lyk-androidtv.html
 
-##GoogleEP
+# #GoogleEP
 
 
 ![这里写图片描述](https://github.com/NeglectedByBoss/TV_FrameWork/blob/master/TvDemo/device-2016-03-23-124613.png?raw=true)
@@ -22,7 +22,7 @@ M
 github:https://github.com/Tamicer/TV_FrameWork
 
 
-##FocusView
+## FocusView
 
  
  ![alt text](https://github.com/NeglectedByBoss/FocusVIew/blob/gh-pages/images/%E8%8B%A5%E6%B0%B4GIF%E6%88%AA%E5%9B%BE_2015%E5%B9%B47%E6%9C%881%E6%97%A523%E7%82%B937%E5%88%8612%E7%A7%92.gif "Title")
@@ -30,7 +30,7 @@ github:https://github.com/Tamicer/TV_FrameWork
 >地址：https://github.com/Tamicer/FocusView
 >Blog：http://blog.csdn.net/sk719887916/article/details/40348853
 
-##RecyclerView
+## RecyclerView
  
  
  ![tvRecycler.gif](http://upload-images.jianshu.io/upload_images/1927803-8d85c450c8aba2fd.gif?imageMogr2/auto-orient/strip)
@@ -40,16 +40,18 @@ github:https://github.com/Tamicer/TV_FrameWork
   Blog：http://www.jianshu.com/p/566bd6188f4d
  
  
- #操作
+ # 操作
  
  
-##遥控器做鼠标
+## 遥控器做鼠标
  
  >github: https://github.com/Tamicer/MouseView_TV
  
- 
-#直播点播 
+  
+# 直播点播 
 
 
  
-#ROM系列
+# ROM系列
+## Android TV Input Framework
+Android TV框架 TIF（Android TV Input Framework）入门实践: http://blog.csdn.net/sk719887916/article/details/53645615
