@@ -38,6 +38,23 @@ github:https://github.com/Tamicer/TV_FrameWork
  
  >gitbub：https://github.com/songwenju/CustomTvRecyclerView
   Blog：http://www.jianshu.com/p/566bd6188f4d
+  
+  
+##小米Metro
+
+
+![]( https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/app_en.png)
+
+
+ https://github.com/XiaoMi/android_tv_metro
+ 
+ 
+## googlesamples/leanback-showcase
+
+![](https://github.com/googlesamples/leanback-showcase/raw/master/screenshots/Showcase-Snapshots.png)
+
+
+https://github.com/googlesamples/leanback-showcase
  
  
  # 操作
